@@ -1,7 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Sep 01 19:38:33 GMT 2017
-http\://repo.maven.apache.org/maven2/.lastUpdated=1504294713709
-default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294709328
-https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact antlr\:antlr\:jar\:2.7.7 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/antlr/antlr/2.7.7/antlr-2.7.7.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
-https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294710000
-https\://repo.spring.io/libs-milestone-local/.error=

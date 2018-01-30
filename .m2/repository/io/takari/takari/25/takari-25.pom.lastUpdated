@@ -1,7 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Sep 01 19:38:09 GMT 2017
-http\://repo.maven.apache.org/maven2/.lastUpdated=1504294689114
-default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294688913
-https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact io.takari\:takari\:pom\:25 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/io/takari/takari/25/takari-25.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
-https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294689061
-https\://repo.spring.io/libs-milestone-local/.error=
