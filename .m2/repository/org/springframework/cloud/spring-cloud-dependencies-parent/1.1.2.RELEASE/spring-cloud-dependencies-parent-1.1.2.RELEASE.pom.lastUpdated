@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:38:03 GMT 2017
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294683398
+default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294683041
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-dependencies-parent\:pom\:1.1.2.RELEASE from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-dependencies-parent/1.1.2.RELEASE/spring-cloud-dependencies-parent-1.1.2.RELEASE.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294683193
+https\://repo.spring.io/libs-milestone-local/.error=

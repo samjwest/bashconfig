@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:43:12 GMT 2017
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.google.guava\:guava\:pom\:15.0 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/google/guava/guava/15.0/guava-15.0.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294992614
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294992555
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294992380

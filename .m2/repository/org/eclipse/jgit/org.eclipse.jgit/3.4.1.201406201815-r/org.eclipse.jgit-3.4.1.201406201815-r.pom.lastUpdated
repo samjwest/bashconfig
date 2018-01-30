@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:43:13 GMT 2017
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.eclipse.jgit\:org.eclipse.jgit\:pom\:3.4.1.201406201815-r from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/eclipse/jgit/org.eclipse.jgit/3.4.1.201406201815-r/org.eclipse.jgit-3.4.1.201406201815-r.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294993739
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294993682
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294993535

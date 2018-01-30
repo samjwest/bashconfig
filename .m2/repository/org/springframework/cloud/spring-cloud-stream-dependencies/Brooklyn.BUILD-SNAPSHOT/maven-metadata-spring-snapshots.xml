@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-stream-dependencies</artifactId>
+  <version>Brooklyn.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170323.141647</timestamp>
+      <buildNumber>36</buildNumber>
+    </snapshot>
+    <lastUpdated>20170323141800</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>Brooklyn.BUILD-20170323.141647-36</value>
+        <updated>20170323141647</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Brooklyn.BUILD-20170323.141647-36</value>
+        <updated>20170323141647</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

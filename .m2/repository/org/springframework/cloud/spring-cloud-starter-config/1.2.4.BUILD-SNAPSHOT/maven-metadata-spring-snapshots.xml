@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-starter-config</artifactId>
+  <version>1.2.4.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170901.190224</timestamp>
+      <buildNumber>1393</buildNumber>
+    </snapshot>
+    <lastUpdated>20170901190226</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.2.4.BUILD-20170901.190224-1393</value>
+        <updated>20170901190224</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2.4.BUILD-20170901.190224-1393</value>
+        <updated>20170901190224</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.4.BUILD-20170901.190224-1393</value>
+        <updated>20170901190224</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

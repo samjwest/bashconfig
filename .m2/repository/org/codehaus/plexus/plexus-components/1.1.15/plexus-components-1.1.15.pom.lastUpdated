@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:43:39 GMT 2017
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.codehaus.plexus\:plexus-components\:pom\:1.1.15 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/codehaus/plexus/plexus-components/1.1.15/plexus-components-1.1.15.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504295019815
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504295019757
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504295019610

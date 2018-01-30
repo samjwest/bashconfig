@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-aws-dependencies</artifactId>
+  <version>1.1.4.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160921.113743</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160921113741</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.1.4.BUILD-20160921.113743-1</value>
+        <updated>20160921113743</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.4.BUILD-20160921.113743-1</value>
+        <updated>20160921113743</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

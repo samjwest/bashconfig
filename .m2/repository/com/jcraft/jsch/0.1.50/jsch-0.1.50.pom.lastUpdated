@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:43:14 GMT 2017
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.jcraft\:jsch\:pom\:0.1.50 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/jcraft/jsch/0.1.50/jsch-0.1.50.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294994450
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294994398
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294994253

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:41:32 GMT 2017
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.sun.jersey\:jersey-core\:pom\:1.19.1 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294892616
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294892693
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294892468
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294892321

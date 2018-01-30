@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:41:05 GMT 2017
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.jboss.logging\:jboss-logging\:pom\:3.3.0.Final from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294865924
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294865976
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294865773
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294865624

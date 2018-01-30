@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:40:51 GMT 2017
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact ch.qos.logback\:logback-classic\:pom\:1.1.8 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/ch/qos/logback/logback-classic/1.1.8/logback-classic-1.1.8.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294851079
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294851148
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294850925
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294850767

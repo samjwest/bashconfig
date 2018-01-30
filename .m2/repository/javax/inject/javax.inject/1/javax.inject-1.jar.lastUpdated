@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:38:33 GMT 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1504294713614
+default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294709281
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact javax.inject\:javax.inject\:jar\:1 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/javax/inject/javax.inject/1/javax.inject-1.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294709958
+https\://repo.spring.io/libs-milestone-local/.error=

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:38:07 GMT 2017
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294687166
+default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294686787
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.data.build\:spring-data-build\:pom\:1.8.6.RELEASE from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/springframework/data/build/spring-data-build/1.8.6.RELEASE/spring-data-build-1.8.6.RELEASE.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294686939
+https\://repo.spring.io/libs-milestone-local/.error=

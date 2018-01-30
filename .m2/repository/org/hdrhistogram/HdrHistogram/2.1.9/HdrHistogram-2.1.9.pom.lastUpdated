@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:42:05 GMT 2017
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.hdrhistogram\:HdrHistogram\:pom\:2.1.9 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/hdrhistogram/HdrHistogram/2.1.9/HdrHistogram-2.1.9.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294925153
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294925216
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294925005
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294924855

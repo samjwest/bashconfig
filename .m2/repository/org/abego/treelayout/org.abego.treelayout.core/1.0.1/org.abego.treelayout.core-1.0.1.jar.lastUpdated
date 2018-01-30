@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:38:33 GMT 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1504294713738
+default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294709345
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.abego.treelayout\:org.abego.treelayout.core\:jar\:1.0.1 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294710015
+https\://repo.spring.io/libs-milestone-local/.error=

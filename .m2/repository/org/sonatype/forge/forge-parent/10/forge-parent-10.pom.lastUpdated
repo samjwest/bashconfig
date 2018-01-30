@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:38:14 GMT 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1504294694636
+default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294694428
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.sonatype.forge\:forge-parent\:pom\:10 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/sonatype/forge/forge-parent/10/forge-parent-10.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294694581
+https\://repo.spring.io/libs-milestone-local/.error=

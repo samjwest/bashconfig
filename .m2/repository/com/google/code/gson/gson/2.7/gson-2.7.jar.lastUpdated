@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:43:02 GMT 2017
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:2.7 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/com/google/code/gson/gson/2.7/gson-2.7.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294960721
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294982627
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294951854
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294947295

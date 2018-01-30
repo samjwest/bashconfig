@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:40:53 GMT 2017
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:pom\:1.7.22 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/slf4j/jcl-over-slf4j/1.7.22/jcl-over-slf4j-1.7.22.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294853759
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294853813
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294853591
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294853435

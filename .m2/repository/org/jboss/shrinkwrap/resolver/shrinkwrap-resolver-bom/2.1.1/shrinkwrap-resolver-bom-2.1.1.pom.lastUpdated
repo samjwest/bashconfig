@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:41:04 GMT 2017
+http\://repo.spring.io/ext-release-local/.error=
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294864136
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294864004
+https\://repo.spring.io/libs-milestone-local/.error=
+http\://repo.spring.io/ext-release-local/.lastUpdated=1504294864358
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294864290
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:2.1.1 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294864414

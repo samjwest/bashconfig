@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:40:33 GMT 2017
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.boot\:spring-boot-tools\:pom\:1.4.3.RELEASE from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/springframework/boot/spring-boot-tools/1.4.3.RELEASE/spring-boot-tools-1.4.3.RELEASE.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1504294833546
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294833491
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294833335

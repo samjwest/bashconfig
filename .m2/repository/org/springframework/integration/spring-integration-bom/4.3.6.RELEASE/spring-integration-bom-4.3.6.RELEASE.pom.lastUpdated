@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Sep 01 19:38:07 GMT 2017
+https\://repo.spring.io/libs-release-local/.lastUpdated=1504294687601
+default-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1504294687234
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: https\://repo.spring.io/libs-snapshot-local/org/springframework/integration/spring-integration-bom/4.3.6.RELEASE/spring-integration-bom-4.3.6.RELEASE.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1504294687388
+https\://repo.spring.io/libs-milestone-local/.error=
